@@ -1,64 +1,43 @@
 # Health-Portal
-Full Stack CRUD App: Angular + Spring Boot
-# 🏥 Health Portal
+## Full Stack CRUD App: Angular + Spring Boot
 
-A simple full-stack web application using Angular and Spring Boot for managing users. Built for learning and showcasing CRUD operations, REST APIs, and UI with Bootstrap.
+🏥 **Health Portal**
 
----
-
-## 🚀 Features
-
-- View user list
-- Add new users
-- RESTful backend API with Spring Boot
-- Stylish Bootstrap frontend with Angular
+A simple full-stack web application using Angular and Spring Boot for managing users.  
+Built for learning and showcasing CRUD operations, REST APIs, and UI with Bootstrap.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Features
 
-- **Frontend:** Angular 17, TypeScript, Bootstrap 5
-- **Backend:** Java 17, Spring Boot
-- **Build Tools:** Maven, Angular CLI
+- ✅ View user list  
+- ✅ Add new users  
+- ✅ RESTful backend API with Spring Boot  
+- ✅ Stylish Bootstrap frontend with Angular  
 
 ---
 
-## 🧪 Setup Instructions
+### 🛠️ Tech Stack
 
-### 🔧 Prerequisites
+- **Frontend**: Angular 17, TypeScript, Bootstrap 5  
+- **Backend**: Java 17, Spring Boot  
+- **Build Tools**: Maven, Angular CLI  
 
-- Node.js + npm
-- Angular CLI
-- Java 17+
-- Maven
+---
+
+### 🧪 Setup Instructions
+
+#### 🔧 Prerequisites
+
+- Node.js + npm  
+- Angular CLI  
+- Java 17+  
+- Maven  
 
 ---
 
 ### 🖥️ Run Backend (Spring Boot)
 
-1. Open a terminal
-2. Navigate to the backend directory (`cd healthportal`)
-3. Run the app:
-
 ```bash
+cd healthportal
 ./mvnw spring-boot:run
-
-🌐 Run Frontend (Angular)
-Open another terminal
-
-Navigate to the frontend directory:
-
-bash
-Copy code
-cd healthportal-frontend
-Install dependencies:
-
-bash
-Copy code
-npm install
-Run the app:
-
-bash
-Copy code
-ng serve
-✅ Frontend will be running at: http://localhost:4200

@@ -42,7 +42,9 @@ Built for learning and showcasing CRUD operations, REST APIs, and UI with Bootst
 cd healthportal
 ./mvnw spring-boot:run
 
-### 🖥️ Run Frontend (Angular)
+---
+
+**### 🖥️ Run Frontend (Angular)**
 
 ```bash
 cd healthportal-frontend

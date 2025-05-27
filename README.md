@@ -43,7 +43,6 @@ cd healthportal
 ./mvnw spring-boot:run
 
 
-```bash
 cd healthportal-frontend
 npm install
 ng serve

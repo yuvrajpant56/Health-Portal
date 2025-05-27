@@ -46,57 +46,19 @@ A simple full-stack web application using Angular and Spring Boot for managing u
 🌐 Run Frontend (Angular)
 Open another terminal
 
-Navigate to the frontend directory (cd healthportal-frontend)
+Navigate to the frontend directory:
 
+bash
+Copy code
+cd healthportal-frontend
 Install dependencies:
 
 bash
-Copy
-Edit
+Copy code
 npm install
 Run the app:
 
 bash
-Copy
-Edit
+Copy code
 ng serve
-Frontend runs at http://localhost:4200
-
-📸 Screenshots
-
-
-📦 API Endpoints
-Method	Endpoint	Description
-GET	/api/users	Get all users
-POST	(coming soon)	Add new user
-
-📂 Project Structure
-bash
-Copy
-Edit
-healthportal/
-├── healthportal-frontend/   # Angular app
-└── src/main/java/           # Spring Boot backend
-🤝 Contributing
-Pull requests welcome! For major changes, open an issue first to discuss.
-
-📃 License
-MIT License
-
-yaml
-Copy
-Edit
-
----
-
-### ✅ To Add This to Your Repo:
-
-1. Open your `README.md` file in VS Code or any editor
-2. Paste the above markdown
-3. Customize it as needed
-4. Save and commit:
-
-```bash
-git add README.md
-git commit -m "Update README with full instructions"
-git push origin main
+✅ Frontend will be running at: http://localhost:4200

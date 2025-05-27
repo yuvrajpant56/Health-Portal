@@ -36,15 +36,12 @@ Built for learning and showcasing CRUD operations, REST APIs, and UI with Bootst
 
 ---
 
-### 🖥️ Run Backend (Spring Boot)
+### 🖥️ Run Backend (Spring Boot) & Frontend (Angular)
 
 ```bash
 cd healthportal
 ./mvnw spring-boot:run
 
----
-
-### 🌐 Run Frontend (Angular)
 
 ```bash
 cd healthportal-frontend

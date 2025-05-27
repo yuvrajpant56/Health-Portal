@@ -44,7 +44,7 @@ cd healthportal
 
 ---
 
-**### 🖥️ Run Frontend (Angular)**
+### 🌐 Run Frontend (Angular)
 
 ```bash
 cd healthportal-frontend
